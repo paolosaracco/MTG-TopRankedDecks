@@ -4,7 +4,6 @@ In this project we gather data about the composition of MTG decks in World Champ
 
 * [Goal of the project](#goals)
 * [Repository content](#content)
-* [Process](#process)
 
 <h1 id=goals>Goal of the project</h1>
 
