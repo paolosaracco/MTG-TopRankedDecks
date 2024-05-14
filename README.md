@@ -33,7 +33,7 @@ In this project we gather data about the composition of MTG decks in World Champ
     <td>HTML static version of the analysis.</td>
   </tr>
   <tr>
-    <td>CodeBook.md</td>
+    <td>Codebook.md</td>
     <td>The code book that describes the variables and the data. Transformation performed to clean up the data are described in the Jupyter Notebook.</td>
   </tr>
   <tr>
